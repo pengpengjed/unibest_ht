@@ -11,6 +11,7 @@ export default defineUniPages({
   easycom: {
     autoscan: true,
     custom: {
+      '^ht-(.*)': '@/components/ht-$1/ht-$1.vue',
       '^wd-(.*)': 'wot-design-uni/components/wd-$1/wd-$1.vue',
       '^(?!z-paging-refresh|z-paging-load-more)z-paging(.*)':
         'z-paging/components/z-paging$1/z-paging$1.vue',
