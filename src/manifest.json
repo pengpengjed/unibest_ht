@@ -1,5 +1,5 @@
 {
-  "name": "unibest",
+  "name": "unibest_ht",
   "appid": "H57F2ACE4",
   "description": "",
   "versionName": "1.0.0",
@@ -105,7 +105,7 @@
   "vueVersion": "3",
   "h5": {
     "router": {
-      "base": "/unibest/"
+      "base": "/unibest_ht/"
     }
   }
 }

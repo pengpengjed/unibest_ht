@@ -1,7 +1,7 @@
 {
   "globalStyle": {
     "navigationStyle": "default",
-    "navigationBarTitleText": "unibest",
+    "navigationBarTitleText": "unibest_ht",
     "navigationBarBackgroundColor": "#f8f8f8",
     "navigationBarTextStyle": "black",
     "backgroundColor": "#FFFFFF"
@@ -53,6 +53,10 @@
       "style": {
         "navigationBarTitleText": "关于"
       }
+    },
+    {
+      "path": "pages/report/index",
+      "type": "page"
     }
   ],
   "subPackages": []
