@@ -1,8 +1,8 @@
 {
-  "name": "unibest_ht",
+  "name": "unibest",
   "type": "commonjs",
   "version": "2.4.3",
-  "description": "unibest_ht - 最好的 uniapp 开发模板",
+  "description": "unibest - 最好的 uniapp 开发模板",
   "author": {
     "name": "codercup",
     "zhName": "菲鸽",
@@ -11,7 +11,7 @@
     "gitee": "https://gitee.com/codercup"
   },
   "license": "MIT",
-  "repository": "https://github.com/pengpengjed/unibest_ht",
+  "repository": "https://github.com/pengpengjed/unibest",
   "bugs": {
     "url": "https://github.com/codercup/unibest/issues"
   },
@@ -87,6 +87,7 @@
     "@dcloudio/uni-h5": "3.0.0-alpha-4010520240507001",
     "@dcloudio/uni-mp-weixin": "3.0.0-alpha-4010520240507001",
     "@qiun/ucharts": "2.5.0-20230101",
+    "@qiun/vue-ucharts": "2.5.0-20230101",
     "czg": "^1.9.3",
     "dayjs": "1.11.10",
     "pinia": "2.0.36",

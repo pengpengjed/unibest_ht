@@ -1,5 +1,5 @@
 <template>
-  <wd-config-provider :themeVars="themeVars">
+  <wd-config-provider :themeVars="themeVars" class="bg-#f5f5f5 h-100vh">
     <slot />
     <wd-toast />
     <wd-message-box />

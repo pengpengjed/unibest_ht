@@ -29,6 +29,9 @@ importers:
       '@qiun/ucharts':
         specifier: 2.5.0-20230101
         version: 2.5.0-20230101
+      '@qiun/vue-ucharts':
+        specifier: 2.5.0-20230101
+        version: 2.5.0-20230101
       czg:
         specifier: ^1.9.3
         version: 1.9.3
@@ -1488,6 +1491,9 @@ packages:
 
   '@qiun/ucharts@2.5.0-20230101':
     resolution: {integrity: sha512-C7ccBgfPuGF6dxTRuMW0NPPMSCf1k/kh3I9zkRVBc5PaivudX/rPL+jd2Wty6gn5ya5L3Ob+YmYe09V5xw66Cw==}
+
+  '@qiun/vue-ucharts@2.5.0-20230101':
+    resolution: {integrity: sha512-HZ4q6CBjzheAmocr//jY2nV3wO2Xu+2CX6NjwUD+uM1Jo/ewlnNIL2TiRRqtwMBhyaIoJh4nCzmnoeT7kUvlxA==}
 
   '@rollup/pluginutils@5.1.0':
     resolution: {integrity: sha512-XTIWOPPcpvyKI6L1NHo0lFlCyznUEyPmPY1mc3KpPVDYulHSTvyeLNVW00QTLIAFNhR3kYnJTQHeGqU4M3n09g==}
@@ -7375,6 +7381,8 @@ snapshots:
   '@polka/url@1.0.0-next.25': {}
 
   '@qiun/ucharts@2.5.0-20230101': {}
+
+  '@qiun/vue-ucharts@2.5.0-20230101': {}
 
   '@rollup/pluginutils@5.1.0(rollup@4.18.0)':
     dependencies:

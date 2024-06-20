@@ -1,7 +1,7 @@
 {
   "globalStyle": {
     "navigationStyle": "default",
-    "navigationBarTitleText": "unibest_ht",
+    "navigationBarTitleText": "unibest",
     "navigationBarBackgroundColor": "#f8f8f8",
     "navigationBarTextStyle": "black",
     "backgroundColor": "#FFFFFF"
@@ -40,6 +40,14 @@
   },
   "pages": [
     {
+      "path": "pages/report/index",
+      "type": "home",
+      "layout": "default",
+      "style": {
+        "navigationBarTitleText": "数据报表"
+      }
+    },
+    {
       "path": "pages/index/index",
       "type": "home",
       "style": {
@@ -53,10 +61,6 @@
       "style": {
         "navigationBarTitleText": "关于"
       }
-    },
-    {
-      "path": "pages/report/index",
-      "type": "page"
     }
   ],
   "subPackages": []
